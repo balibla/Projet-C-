@@ -1,0 +1,6 @@
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\bin\Debug\ProjetLivre.exe.config
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\bin\Debug\ProjetLivre.exe
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\bin\Debug\ProjetLivre.pdb
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\obj\Debug\ProjetLivre.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\obj\Debug\ProjetLivre.exe
+C:\Users\Youcode\source\repos\ProjetLivre\ProjetLivre\obj\Debug\ProjetLivre.pdb

@@ -1,0 +1,8 @@
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\bin\Debug\netstandard2.0\DllLivre.deps.json
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\bin\Debug\netstandard2.0\DllLivre.dll
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\bin\Debug\netstandard2.0\DllLivre.pdb
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\obj\Debug\netstandard2.0\DllLivre.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\obj\Debug\netstandard2.0\DllLivre.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\obj\Debug\netstandard2.0\DllLivre.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\obj\Debug\netstandard2.0\DllLivre.dll
+C:\Users\Youcode\source\repos\ProjetLivre\DllLivre\obj\Debug\netstandard2.0\DllLivre.pdb
